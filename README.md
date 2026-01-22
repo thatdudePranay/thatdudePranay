@@ -52,6 +52,23 @@ Overall outside of academics, and being hours deep into a new project, I love me
 
 ---
 
+###  Featured Projects
+
+<div align="center">
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neilhaoyuan&repo=credit_risk_loaner&theme=tokyonight)](https://github.com/neilhaoyuan/credit_risk_loaner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aadya-khanna&repo=ALPHA-BL&theme=tokyonight)](https://github.com/aadya-khanna/ALPHA-BL)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thatdudePranay&repo=EmotionLensAI&theme=tokyonight)](https://github.com/thatdudePranay/EmotionLensAI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thatdudePranay&repo=portfolio-website&theme=tokyonight)](https://github.com/thatdudePranay/portfolio-website)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tTong32&repo=Gun-Smash-Bros&theme=tokyonight)](https://github.com/tTong32/Gun-Smash-Bros)
+
+</div>
+
+---
+
 ###  GitHub Stats
 
 <div align="center">
@@ -79,12 +96,6 @@ Overall outside of academics, and being hours deep into a new project, I love me
 
 ---
 
-###  Featured Projects
-
-<div align="center">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neilhaoyuan&repo=credit_risk_loaner&theme=tokyonight)](https://github.com/neilhaoyuan/credit_risk_loaner)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aadya-khanna&repo=ALPHA-BL&theme=tokyonight)](https://github.com/aadya-khanna/ALPHA-BL)
 
 </div>
 
