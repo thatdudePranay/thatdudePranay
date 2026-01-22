@@ -123,6 +123,6 @@ Overall outside of academics, and being hours deep into a new project, I love me
 
 ---
 
-*Another Quote I like to live by: "You are only confined by the walls which you build" - someone I saw online*
+*Another Quote I like to live by: "You are only confined by the walls which you build" - Andrew Murphy*
 
 </div>
