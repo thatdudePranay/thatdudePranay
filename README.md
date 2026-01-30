@@ -115,10 +115,10 @@ Overall outside of academics, and being hours deep into a new project, I love me
 
 <div align="center">
   
-### 💭 Dev Quote of the Day
+### Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Profile Views
+### Profile Views
 ![](https://komarev.com/ghpvc/?username=thatdudePranay&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
