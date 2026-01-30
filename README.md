@@ -17,7 +17,7 @@ I'm a passionate student developer who loves, challenging myself, exploring new 
 - 💡 Interested In: ***Machine Learning, Financial Systems, Fullstack Development, and Quantitaive Modelling***
 - 💬 Ask Me About: **XGBoost Models, Next.js/React.js Frontend Dev, Quantitative Analysis or the latest financial market news!**
 - 📫 Reach me at: **sreepranaysubramanian@gmail.com**
-- ⚡ Fun fact: **Avid basketball fan and player. Feel free to hit me up to talk about everything NBA.**
+- ⚡ Fun fact: **Avid F1 and basketball fan! Feel free to hit me up to talk about everything NBA and Racing**
 - 🛰️ Side Passion: **Love learning about space, the universe, and space tech innovation!**
 
 Overall outside of academics, and being hours deep into a new project, I love meeting new people, talking, collaborating and just learning all I can from those around me! So feel free to reach out, would love to chat and hear from you!
